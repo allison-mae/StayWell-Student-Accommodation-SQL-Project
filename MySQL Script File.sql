@@ -106,7 +106,7 @@ INSERT INTO SERVICE_REQUEST VALUES('3','6','5','1','The bathroom door does not c
 INSERT INTO SERVICE_REQUEST VALUES('4','2','4','1','New outlet has been requested for the first upstairs bedroom. (There is currently no outlet).','Scheduled','1','0','2019-10-02');
 INSERT INTO SERVICE_REQUEST VALUES('5','8','3','2','New paint job requested for the common area (lounge). ','Open','10','0',NULL);
 INSERT INTO SERVICE_REQUEST VALUES('6','4','1 ','1','Shower is dripping when not in use.','Problem confirmed. Plumber has been scheduled.','4','2','2019-10-07');
-INSERT INTO SERVICE_REQUEST VALUES('7','2','2','1','Heating unit in the entrance smells like it’s burning.','Service rep confirmed the issue to be dust in the heating unit. To be cleaned.  ','1','0','2019-10-09');
+INSERT INTO SERVICE_REQUEST VALUES('7','2','2','1','Heating unit in the entrance smells like itâ€™s burning.','Service rep confirmed the issue to be dust in the heating unit. To be cleaned.  ','1','0','2019-10-09');
 INSERT INTO SERVICE_REQUEST VALUES('8','9','1','2','Kitchen sink does not drain properly. ','Problem confirmed. Plumber scheduled.','6','2','2019-11-12');
 INSERT INTO SERVICE_REQUEST VALUES('9','12','6','2','New sofa requested.','Open','2','0',NULL);
 
@@ -120,7 +120,7 @@ CREATE TABLE RESIDENTS (
 );
 
 # Insert residents 
-INSERT INTO RESIDENTS VALUES('1','Albie ','O’Ryan','1');
+INSERT INTO RESIDENTS VALUES('1','Albie ','Oâ€™Ryan','1');
 INSERT INTO RESIDENTS VALUES('2','Tariq ','Khan','1');
 INSERT INTO RESIDENTS VALUES('3','Ismail ','Salib','1');
 INSERT INTO RESIDENTS VALUES('4','Callen ','Beck','2');
