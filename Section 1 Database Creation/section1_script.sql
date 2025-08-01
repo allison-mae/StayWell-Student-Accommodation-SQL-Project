@@ -18,7 +18,7 @@ CREATE TABLE SUMMER_SCHOOL_RENTALS (
 # Exercise 2: Add a row to the SUMMER_SCHOOL_RENTALS table
 # DML - INSERT command for adding a single row with specific values.
 INSERT INTO SUMMER_SCHOOL_RENTALS
-VALUES (13, 1, '5867 Goodwin Ave', 1650, 2, 1, 400.00, 'CO103');
+    VALUES (13, 1, '5867 Goodwin Ave', 1650, 2, 1, 400.00, 'CO103');
 
 # Exercise 3: Delete the SUMMER_SCHOOL_RENTALS table
 # DDL - DROP TABLE command to permanently remove a table.
