@@ -4,7 +4,6 @@ This project represents a comprehensive portfolio of work from the CTS 2433 - SQ
 - Scale the database to support an e-commerce booking system and mobile app, expand reporting for property owners, and enhance user access security.
 - Transitioning to a digital model enables the company to manage 100% of its properties and owners within a single system, reducing manual processes and improving accuracy.
 
-The project addresses a critical business need to transition from manual record-keeping and communication to an efficient, e-commerce-based model. By building a robust relational database, this work provides a scalable foundation for managing all data related to properties, owners, and services, laying the groundwork for future online booking and mobile applications.
 
 ## Objective
 This project provides a practical framework for solving key data-related challenges faced by a property management company. Through a series of carefully designed exercises, the database addresses questions such as:
